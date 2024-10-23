@@ -1,0 +1,4 @@
+[console_scripts]
+color_test = Robot.color_test:main
+image_capturer = Robot.image_capturer:main
+

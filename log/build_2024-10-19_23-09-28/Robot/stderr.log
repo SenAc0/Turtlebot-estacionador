@@ -1,0 +1,5 @@
+  File "/root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/color_test.py", line 14
+    print("Topic encontrado")
+    ^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

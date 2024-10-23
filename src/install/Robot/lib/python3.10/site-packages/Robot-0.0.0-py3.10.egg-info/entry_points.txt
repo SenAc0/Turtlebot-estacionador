@@ -1,0 +1,3 @@
+[console_scripts]
+image_capturer = Robot.image_capturer:main
+

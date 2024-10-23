@@ -1,0 +1,37 @@
+[0.791s] Invoking command in '/root/ros2_ws/src/Robot': PYTHONPATH=/root/ros2_ws/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /root/ros2_ws/build/Robot/build install --record /root/ros2_ws/build/Robot/install.log --single-version-externally-managed install_data
+[1.088s] running egg_info
+[1.089s] creating ../../build/Robot/Robot.egg-info
+[1.089s] writing ../../build/Robot/Robot.egg-info/PKG-INFO
+[1.089s] writing dependency_links to ../../build/Robot/Robot.egg-info/dependency_links.txt
+[1.089s] writing entry points to ../../build/Robot/Robot.egg-info/entry_points.txt
+[1.090s] writing requirements to ../../build/Robot/Robot.egg-info/requires.txt
+[1.090s] writing top-level names to ../../build/Robot/Robot.egg-info/top_level.txt
+[1.090s] writing manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[1.092s] reading manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[1.093s] writing manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[1.093s] running build
+[1.093s] running build_py
+[1.094s] creating /root/ros2_ws/build/Robot/build
+[1.094s] creating /root/ros2_ws/build/Robot/build/lib
+[1.094s] creating /root/ros2_ws/build/Robot/build/lib/Robot
+[1.094s] copying Robot/image_cap.py -> /root/ros2_ws/build/Robot/build/lib/Robot
+[1.094s] copying Robot/__init__.py -> /root/ros2_ws/build/Robot/build/lib/Robot
+[1.095s] running install
+[1.095s] running install_lib
+[1.095s] creating /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot
+[1.095s] copying /root/ros2_ws/build/Robot/build/lib/Robot/image_cap.py -> /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot
+[1.096s] copying /root/ros2_ws/build/Robot/build/lib/Robot/__init__.py -> /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot
+[1.096s] byte-compiling /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/image_cap.py to image_cap.cpython-310.pyc
+[1.097s] byte-compiling /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/__init__.py to __init__.cpython-310.pyc
+[1.097s] running install_data
+[1.097s] creating /root/ros2_ws/install/Robot/share/ament_index
+[1.098s] creating /root/ros2_ws/install/Robot/share/ament_index/resource_index
+[1.098s] creating /root/ros2_ws/install/Robot/share/ament_index/resource_index/packages
+[1.098s] copying resource/Robot -> /root/ros2_ws/install/Robot/share/ament_index/resource_index/packages
+[1.098s] copying package.xml -> /root/ros2_ws/install/Robot/share/Robot
+[1.098s] running install_egg_info
+[1.100s] Copying ../../build/Robot/Robot.egg-info to /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info
+[1.101s] running install_scripts
+[1.123s] Installing image_capturer script to /root/ros2_ws/install/Robot/lib/Robot
+[1.123s] writing list of installed files to '/root/ros2_ws/build/Robot/install.log'
+[1.157s] Invoked command in '/root/ros2_ws/src/Robot' returned '0': PYTHONPATH=/root/ros2_ws/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /root/ros2_ws/build/Robot/build install --record /root/ros2_ws/build/Robot/install.log --single-version-externally-managed install_data

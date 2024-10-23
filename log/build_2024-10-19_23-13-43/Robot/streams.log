@@ -1,0 +1,30 @@
+[1.079s] Invoking command in '/root/ros2_ws/src/Robot': PYTHONPATH=/root/ros2_ws/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /root/ros2_ws/build/Robot/build install --record /root/ros2_ws/build/Robot/install.log --single-version-externally-managed install_data
+[1.457s] running egg_info
+[1.458s] writing ../../build/Robot/Robot.egg-info/PKG-INFO
+[1.458s] writing dependency_links to ../../build/Robot/Robot.egg-info/dependency_links.txt
+[1.460s] writing entry points to ../../build/Robot/Robot.egg-info/entry_points.txt
+[1.460s] writing requirements to ../../build/Robot/Robot.egg-info/requires.txt
+[1.460s] writing top-level names to ../../build/Robot/Robot.egg-info/top_level.txt
+[1.464s] reading manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[1.465s] writing manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[1.465s] running build
+[1.465s] running build_py
+[1.465s] copying Robot/color_test.py -> /root/ros2_ws/build/Robot/build/lib/Robot
+[1.465s] running install
+[1.466s] running install_lib
+[1.467s] copying /root/ros2_ws/build/Robot/build/lib/Robot/color_test.py -> /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot
+[1.468s] byte-compiling /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/color_test.py to color_test.cpython-310.pyc
+[1.468s] running install_data
+[1.469s] running install_egg_info
+[1.469s]   File "/root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/color_test.py", line 35
+[1.469s]     else print(" NO COLOR ESPECÍFICO DETECTADO")
+[1.469s]          ^^^^^
+[1.470s] SyntaxError: expected ':'
+[1.470s] 
+[1.473s] removing '/root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.473s] Copying ../../build/Robot/Robot.egg-info to /root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info
+[1.475s] running install_scripts
+[1.508s] Installing color_test script to /root/ros2_ws/install/Robot/lib/Robot
+[1.508s] Installing image_capturer script to /root/ros2_ws/install/Robot/lib/Robot
+[1.509s] writing list of installed files to '/root/ros2_ws/build/Robot/install.log'
+[1.581s] Invoked command in '/root/ros2_ws/src/Robot' returned '0': PYTHONPATH=/root/ros2_ws/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /root/ros2_ws/build/Robot/build install --record /root/ros2_ws/build/Robot/install.log --single-version-externally-managed install_data

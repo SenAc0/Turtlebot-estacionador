@@ -1,0 +1,5 @@
+  File "/root/ros2_ws/install/Robot/lib/python3.10/site-packages/Robot/color_test.py", line 35
+    else print(" NO COLOR ESPECÍFICO DETECTADO")
+         ^^^^^
+SyntaxError: expected ':'
+

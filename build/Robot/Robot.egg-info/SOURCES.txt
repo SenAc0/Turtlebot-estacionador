@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/Robot/Robot.egg-info/PKG-INFO
+../../build/Robot/Robot.egg-info/SOURCES.txt
+../../build/Robot/Robot.egg-info/dependency_links.txt
+../../build/Robot/Robot.egg-info/entry_points.txt
+../../build/Robot/Robot.egg-info/requires.txt
+../../build/Robot/Robot.egg-info/top_level.txt
+../../build/Robot/Robot.egg-info/zip-safe
+Robot/__init__.py
+Robot/color_test.py
+Robot/image_capturer.py
+resource/Robot
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
