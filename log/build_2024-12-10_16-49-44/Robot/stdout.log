@@ -1,0 +1,32 @@
+running egg_info
+writing ../../build/Robot/Robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/Robot/Robot.egg-info/dependency_links.txt
+writing entry points to ../../build/Robot/Robot.egg-info/entry_points.txt
+writing requirements to ../../build/Robot/Robot.egg-info/requires.txt
+writing top-level names to ../../build/Robot/Robot.egg-info/top_level.txt
+reading manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying Robot/basetest.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot
+copying Robot/test.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot
+copying Robot/safe_test.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot
+running install
+running install_lib
+copying /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot/basetest.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot
+copying /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot/test.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot
+copying /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot/safe_test.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot
+byte-compiling /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot/basetest.py to basetest.cpython-310.pyc
+byte-compiling /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot/test.py to test.cpython-310.pyc
+byte-compiling /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot/safe_test.py to safe_test.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/Robot/Robot.egg-info to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing basetest script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+Installing color_test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+Installing image_capturer script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+Installing safe_test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+Installing test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+writing list of installed files to '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/install.log'

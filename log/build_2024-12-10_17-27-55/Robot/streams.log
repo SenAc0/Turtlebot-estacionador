@@ -1,0 +1,28 @@
+[1.527s] Invoking command in '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/Robot': PYTHONPATH=/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build install --record /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/install.log --single-version-externally-managed install_data
+[2.016s] running egg_info
+[2.016s] writing ../../build/Robot/Robot.egg-info/PKG-INFO
+[2.016s] writing dependency_links to ../../build/Robot/Robot.egg-info/dependency_links.txt
+[2.016s] writing entry points to ../../build/Robot/Robot.egg-info/entry_points.txt
+[2.016s] writing requirements to ../../build/Robot/Robot.egg-info/requires.txt
+[2.022s] writing top-level names to ../../build/Robot/Robot.egg-info/top_level.txt
+[2.023s] reading manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[2.025s] writing manifest file '../../build/Robot/Robot.egg-info/SOURCES.txt'
+[2.025s] running build
+[2.025s] running build_py
+[2.026s] copying Robot/basetest.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot
+[2.028s] running install
+[2.028s] running install_lib
+[2.031s] copying /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build/lib/Robot/basetest.py -> /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot
+[2.032s] byte-compiling /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot/basetest.py to basetest.cpython-310.pyc
+[2.033s] running install_data
+[2.034s] running install_egg_info
+[2.040s] removing '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.041s] Copying ../../build/Robot/Robot.egg-info to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info
+[2.041s] running install_scripts
+[2.086s] Installing basetest script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+[2.086s] Installing color_test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+[2.086s] Installing image_capturer script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+[2.087s] Installing safe_test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+[2.087s] Installing test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/Robot
+[2.087s] writing list of installed files to '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/install.log'
+[2.153s] Invoked command in '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/Robot' returned '0': PYTHONPATH=/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/Robot build --build-base /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/build install --record /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/build/Robot/install.log --single-version-externally-managed install_data

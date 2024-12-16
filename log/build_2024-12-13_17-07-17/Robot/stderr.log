@@ -1,0 +1,5 @@
+  File "/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/install/Robot/lib/python3.10/site-packages/Robot/basetest.py", line 80
+    self.
+         ^
+SyntaxError: invalid syntax
+

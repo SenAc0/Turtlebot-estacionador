@@ -1,4 +1,8 @@
 [console_scripts]
+basetest = Robot.basetest:main
 color_test = Robot.color_test:main
 image_capturer = Robot.image_capturer:main
+rectantest = Robot.rectantest:main
+safe_test = Robot.safe_test:main
+test = Robot.test:main
 

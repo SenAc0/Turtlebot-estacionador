@@ -1,0 +1,21 @@
+running egg_info
+writing ../build/Robot/Robot.egg-info/PKG-INFO
+writing dependency_links to ../build/Robot/Robot.egg-info/dependency_links.txt
+writing entry points to ../build/Robot/Robot.egg-info/entry_points.txt
+writing requirements to ../build/Robot/Robot.egg-info/requires.txt
+writing top-level names to ../build/Robot/Robot.egg-info/top_level.txt
+reading manifest file '../build/Robot/Robot.egg-info/SOURCES.txt'
+writing manifest file '../build/Robot/Robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/Robot/Robot.egg-info to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/install/Robot/lib/python3.10/site-packages/Robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing color_test script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/install/Robot/lib/Robot
+Installing image_capturer script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/install/Robot/lib/Robot
+Installing safe script to /home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/install/Robot/lib/Robot
+writing list of installed files to '/home/seba/Desktop/Turtlebot/Turtlebot-estacionador/src/build/Robot/install.log'

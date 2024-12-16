@@ -9,8 +9,12 @@ setup.py
 ../../build/Robot/Robot.egg-info/top_level.txt
 ../../build/Robot/Robot.egg-info/zip-safe
 Robot/__init__.py
+Robot/basetest.py
 Robot/color_test.py
 Robot/image_capturer.py
+Robot/rectantest.py
+Robot/safe_test.py
+Robot/test.py
 resource/Robot
 test/test_copyright.py
 test/test_flake8.py

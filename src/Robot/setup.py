@@ -22,6 +22,10 @@ setup(
         'console_scripts': [
              'image_capturer = Robot.image_capturer:main', 
              'color_test = Robot.color_test:main',
+             'safe_test = Robot.safe_test:main',
+             'test = Robot.test:main',
+             'basetest = Robot.basetest:main',
+             'rectantest = Robot.rectantest:main',
         ],
     },
 )
